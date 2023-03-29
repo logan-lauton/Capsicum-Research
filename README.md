@@ -3,8 +3,9 @@
 <details><summary><strong>Visit My Other Projects!</strong></summary> 
 <br>
 
-1. [NBA Webscrapes](https://github.com/logan-lauton/nba_webscrape)
-2. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
+1. [Mentacare Patient Management System](https://github.com/logan-lauton/Mentcare-Patient-Management-System)
+2. [NBA Webscrapes](https://github.com/logan-lauton/nba_webscrape)
+3. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
 
 </details>
 

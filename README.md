@@ -4,8 +4,9 @@
 <br>
 
 1. [Mentacare Patient Management System](https://github.com/logan-lauton/Mentcare-Patient-Management-System)
-2. [NBA Webscrapes](https://github.com/logan-lauton/nba_webscrape)
-3. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
+2. [NBA Player HUD App](https://github.com/logan-lauton/NBA-Player-HUD)
+3. [NBA Webscrapes](https://github.com/logan-lauton/nba_webscrape)
+4. [NFL Webscrapes](https://github.com/logan-lauton/nfl_webscrape)
 
 </details>
 

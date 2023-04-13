@@ -23,8 +23,11 @@ This repository holds the project that I am undertaking which will help determin
 
 ### Index
 
-- [Basic Tableau Work](https://github.com/logan-lauton/Capsicum-Research/blob/main/capbook.twb)
-- [Data being used](https://github.com/logan-lauton/Capsicum-Research/blob/main/cap_data_github.csv)
-- [Initial Data Cleaing](https://github.com/logan-lauton/Capsicum-Research/blob/main/Capsicum%20Research%20Data%20Cleaning.R)
-- [Initial Exploratory Data Analysis](https://github.com/logan-lauton/Capsicum-Research/blob/main/Capsicum%20Research%20Exploratory%20Data%20Analysis.R)
+- [License](https://github.com/logan-lauton/Capsicum-Research/blob/main/.github/LICENSE)
+- [How to Contibute](https://github.com/logan-lauton/Capsicum-Research/blob/main/.github/CONTRIBUTING.md)
+- [Code of Conduct](https://github.com/logan-lauton/Capsicum-Research/blob/main/.github/CODE_OF_CONDUCT.md)
+- [Tableau Work](https://github.com/logan-lauton/Capsicum-Research/tree/main/Tableau)
+- [Data](https://github.com/logan-lauton/Capsicum-Research/tree/main/data)
+- [R](https://github.com/logan-lauton/Capsicum-Research/tree/main/R)
 
+<a name="footer"></a> *Noticing Issues? Submit a [report](https://github.com/logan-lauton/Capsicum-Research/tree/main/.github/ISSUE_TEMPLATE)*
